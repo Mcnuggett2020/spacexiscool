@@ -1,6 +1,13 @@
 
+html,body{
+    height: 100%;
+}
+
 body{
 background-color: lightsteelblue;
+display:flex;
+align-items: center;
+justify-items: center;
 }
 
 h1{
