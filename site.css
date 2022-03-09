@@ -5,9 +5,17 @@ background-color: lightsteelblue;
 
 h1{
 font-size: larger;
-color:darkblue ;
+color:rgba(0, 0, 105, 0.733) ;
 }
 p{
 
 color: white;
+}
+
+.center{
+   text-align: center; 
+}
+
+.box{
+border: 2px solid black;
 }
