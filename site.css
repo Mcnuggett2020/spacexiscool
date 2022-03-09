@@ -17,5 +17,10 @@ color: white;
 }
 
 .box{
-border: 2px solid black;
+    background-color: steelblue; 
+    border: 2px solid black;
+width: 60%;
+border-radius: 15px;
+box-shadow: 0 0 10px black;
+margin: 0 auto;
 }
